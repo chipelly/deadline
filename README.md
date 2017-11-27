@@ -47,4 +47,4 @@
 - 今天最大收获就是初步确定了小论文的模型方向，虽然感觉还是很难，不过坚持下去吧
 - 梳理一下，到今天为止接触的，要学的不少
 - python，matlab，JavaScript，CSS，HTML，Visual Studio 2010，HTTP...
-- 加油，加油，争取以后每天3个以上的summit
+- 加油，加油，争取以后每天3个以上的contributions
